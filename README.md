@@ -1,3 +1,3 @@
 # Bankist-Website
 
-A simple modern bank website UI
+A simple modern bank website UI.
